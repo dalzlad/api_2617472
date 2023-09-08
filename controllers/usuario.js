@@ -31,6 +31,8 @@ const usuarioPost = async(req, res) => {
     })
 }
 
+//Juan Sebastián Granada
+
 //Modifcación
 const usuarioPut = async(req, res = response) => {
 
